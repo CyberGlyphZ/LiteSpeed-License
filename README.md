@@ -1,5 +1,5 @@
 # LiteSpeed-License
-Get a LiteSpeed WebHost Professional License (2-Worker) for $3.00/month!
+Get a LiteSpeed WebHost Professional License (2-Worker) for $2.00/month!
 
 ## Features
 - LSCache Standard
